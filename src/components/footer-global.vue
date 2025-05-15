@@ -1,3 +1,5 @@
+
+
 <script setup lang="ts">
 import facebookIcon from '/icons/facebook.svg'
 import twitterIcon from '/icons/twitter.svg'
@@ -97,7 +99,7 @@ import instagramIcon from '/icons/instagram.svg'
 			<p
 				class="mt-16 text-center text-sm font-semibold tracking-wide text-white opacity-60 md:text-start"
 			>
-				Copyright 2023. All Rights Reserved
+				Copyright 2025. All Rights Reserved
 			</p>
 		</div>
 	</footer>
