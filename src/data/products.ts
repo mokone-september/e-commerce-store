@@ -21,7 +21,7 @@ export const products: catalog = {
 				{ count: 1, content: 'Model X Keycaps' },
 				{ count: 1, content: 'USB Type-C Cable' },
 			],
-			price: 599,
+			price: 399,
 		},
 		{
 			id: 1,
@@ -42,7 +42,7 @@ export const products: catalog = {
 				{ count: 1, content: 'Model X Keycaps' },
 				{ count: 1, content: 'USB Type-C Cable' },
 			],
-			price: 599,
+			price: 399,
 		},
 		{
 			id: 2,
@@ -63,7 +63,7 @@ export const products: catalog = {
 				{ count: 1, content: 'Model X Keycaps' },
 				{ count: 1, content: 'USB Type-C Cable' },
 			],
-			price: 599,
+			price: 399,
 		},
 	],
 	keycaps: [
@@ -81,7 +81,7 @@ export const products: catalog = {
 			features:
 				'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae semper quis lectus nulla. Mi bibendum neque egestas congue quisque egestas diam in arcu. Metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices. Rutrum quisque non tellus orci ac auctor augue mauris augue.',
 			inthebox: [{ count: 1, content: 'Metal Keycap' }],
-			price: 599,
+			price: 399,
 		},
 		{
 			id: 1,
@@ -97,7 +97,7 @@ export const products: catalog = {
 			features:
 				'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae semper quis lectus nulla. Mi bibendum neque egestas congue quisque egestas diam in arcu. Metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices. Rutrum quisque non tellus orci ac auctor augue mauris augue.',
 			inthebox: [{ count: 1, content: 'Metal Keycap' }],
-			price: 599,
+			price: 399,
 		},
 	],
 	deskmats: [
@@ -118,7 +118,7 @@ export const products: catalog = {
 				{ count: 1, content: 'Deskmat' },
 				{ count: 1, content: 'Carrying Pouch' },
 			],
-			price: 599,
+			price: 399,
 		},
 		{
 			id: 1,
@@ -137,7 +137,7 @@ export const products: catalog = {
 				{ count: 1, content: 'Deskmat' },
 				{ count: 1, content: 'Carrying Pouch' },
 			],
-			price: 599,
+			price: 399,
 		},
 	],
 }
